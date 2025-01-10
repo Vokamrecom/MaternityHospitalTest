@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\entities\\givenname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\entities\\givenname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\entities\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\entities\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\dtos\\patientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\dtos\\patientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\dtos\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\dtos\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\maternityhospitaltest\\maternityhospitalapi\\maternityhospitalapi\\maternityhospitalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DE80F59-8996-4A64-B89A-C119A865EF18}|MaternityHospitalApi\\MaternityHospitalApi.csproj|solutionrelative:maternityhospitalapi\\maternityhospitalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\docker-compose.yml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\docker-compose.yml",
+              "RelativeToolTip": "MaternityHospitalApi\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-10T20:58:58.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\appsettings.json",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\appsettings.json",
+              "RelativeToolTip": "MaternityHospitalApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T20:57:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\Entities\\Patient.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Entities\\Patient.cs",
+              "RelativeToolTip": "MaternityHospitalApi\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:56:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GivenName.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Entities\\GivenName.cs",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\Entities\\GivenName.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Entities\\GivenName.cs",
+              "RelativeToolTip": "MaternityHospitalApi\\Entities\\GivenName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:56:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "MaternityHospitalApi\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:57:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Program.cs",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Program.cs",
+              "RelativeToolTip": "MaternityHospitalApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:47:25.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Entities\\DataContext.cs",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\Entities\\DataContext.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Entities\\DataContext.cs",
+              "RelativeToolTip": "MaternityHospitalApi\\Entities\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:55:54.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientResponse.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\DTOs\\PatientResponse.cs",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\DTOs\\PatientResponse.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\DTOs\\PatientResponse.cs",
+              "RelativeToolTip": "MaternityHospitalApi\\DTOs\\PatientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:55:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientRequest.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\DTOs\\PatientRequest.cs",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\DTOs\\PatientRequest.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\DTOs\\PatientRequest.cs",
+              "RelativeToolTip": "MaternityHospitalApi\\DTOs\\PatientRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:54:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaternityHospitalApi",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\MaternityHospitalApi.csproj",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\MaternityHospitalApi.csproj",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\MaternityHospitalApi.csproj*",
+              "RelativeToolTip": "MaternityHospitalApi\\MaternityHospitalApi.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T19:33:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MaternityHospitalApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\MaternityHospitalTest\\MaternityHospitalApi\\MaternityHospitalApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MaternityHospitalApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T20:50:29.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
