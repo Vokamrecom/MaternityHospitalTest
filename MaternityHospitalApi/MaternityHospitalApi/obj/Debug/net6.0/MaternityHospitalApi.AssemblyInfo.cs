@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaternityHospitalApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c59acb43d6c85b09446b06287c3329239a14aa59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f50b9f85c3d0d5ac860f45c1e0cf2b2cb1e94784")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaternityHospitalApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaternityHospitalApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

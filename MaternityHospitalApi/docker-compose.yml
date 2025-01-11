@@ -15,8 +15,9 @@ services:
     container_name: maternity_hospital_api
     environment:
       - ConnectionStrings__DefaultConnection=Server=tcp:sqlserver,1433;Database=MaternityHospitalDb;User=sa;Password=YourStrongPassword123;TrustServerCertificate=True;
+      - ASPNETCORE_ENVIRONMENT=Development
     ports:
-      - "5000:80"
+      - "5000:5000"
     depends_on:
       - sqlserver
     command: ["wait-for-it", "sqlserver:1433", "--", "dotnet", "MaternityHospitalApi.dll"]
@@ -28,4 +29,4 @@ services:
     container_name: patient_api_client
     depends_on:
       - maternityhospitalapi
-    command: ["wait-for-it", "maternityhospitalapi:5000", "--", "wait-for-it", "sqlserver:1433", "--", "dotnet", "MaternityHospitalApi.dll"]
+    command: ["tail", "-f", "/dev/null"]

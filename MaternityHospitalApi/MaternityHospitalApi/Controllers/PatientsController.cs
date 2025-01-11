@@ -127,7 +127,7 @@ namespace MaternityHospitalApi.Controllers
                         parsedDate.TimeOfDay == TimeSpan.Zero
                             ? p.BirthDate.Date < parsedDate.Date
                             : p.BirthDate < parsedDate),
-                    "ap" => patients.Where(p =>
+                    "ap" => patients.AsEnumerable().Where(p =>
                         Math.Abs((p.BirthDate - parsedDate).TotalDays) <= toleranceDays),
                     _ => throw new ArgumentException("Invalid condition")
                 });

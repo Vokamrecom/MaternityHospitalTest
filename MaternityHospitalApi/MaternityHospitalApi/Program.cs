@@ -30,12 +30,15 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "Maternity Hospital API V1");
+    });
 }
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<DataContext>();
-   // dbContext.Database.Migrate();
+    dbContext.Database.Migrate();
 }
 
 app.UseHttpsRedirection();
