@@ -90,3 +90,4 @@ D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\MaternityHospitalAp
 D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\MaternityHospitalApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\MaternityHospitalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\MaternityHospitalApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\MaternityHospitalApi\obj\Debug\net6.0\MaternityHospitalApi.sourcelink.json

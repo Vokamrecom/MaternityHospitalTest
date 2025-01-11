@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaternityHospitalApi", "MaternityHospitalApi\MaternityHospitalApi.csproj", "{2DE80F59-8996-4A64-B89A-C119A865EF18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientApiClient", "PatientApiClient\PatientApiClient.csproj", "{38AD18EC-CCF6-41B6-9256-002E9036F8CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2DE80F59-8996-4A64-B89A-C119A865EF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DE80F59-8996-4A64-B89A-C119A865EF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DE80F59-8996-4A64-B89A-C119A865EF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AD18EC-CCF6-41B6-9256-002E9036F8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AD18EC-CCF6-41B6-9256-002E9036F8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AD18EC-CCF6-41B6-9256-002E9036F8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AD18EC-CCF6-41B6-9256-002E9036F8CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

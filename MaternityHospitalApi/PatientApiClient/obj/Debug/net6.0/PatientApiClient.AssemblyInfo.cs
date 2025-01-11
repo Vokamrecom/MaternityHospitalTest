@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d220cceb-ba5b-4f69-a05e-11a9f7b11b57")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("MaternityHospitalApi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PatientApiClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35405eb1fe85d73eb86ca38bbf91309df41ba7fe")]
-[assembly: System.Reflection.AssemblyProductAttribute("MaternityHospitalApi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MaternityHospitalApi")]
+[assembly: System.Reflection.AssemblyProductAttribute("PatientApiClient")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PatientApiClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -1,0 +1,15 @@
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\bin\Debug\net6.0\PatientApiClient.exe
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\bin\Debug\net6.0\PatientApiClient.deps.json
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\bin\Debug\net6.0\PatientApiClient.runtimeconfig.json
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\bin\Debug\net6.0\PatientApiClient.dll
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\bin\Debug\net6.0\PatientApiClient.pdb
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.AssemblyInfoInputs.cache
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.AssemblyInfo.cs
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.csproj.CoreCompileInputs.cache
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.sourcelink.json
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.dll
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\refint\PatientApiClient.dll
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.pdb
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\PatientApiClient.genruntimeconfig.cache
+D:\Проекты\MaternityHospitalTest\MaternityHospitalApi\PatientApiClient\obj\Debug\net6.0\ref\PatientApiClient.dll

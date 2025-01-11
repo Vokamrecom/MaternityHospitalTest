@@ -1,0 +1,31 @@
+version: '3.4'
+
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      - SA_PASSWORD=123
+      - ACCEPT_EULA=Y
+    ports:
+      - "1433:1433"
+
+  maternityhospitalapi:
+    build:
+      context: .
+      dockerfile: MaternityHospitalApi/Dockerfile
+    container_name: maternity_hospital_api
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=MaternityHospitalDb;User=sa;Password=123;
+    ports:
+      - "5000:80"
+    depends_on:
+      - mssql
+
+  patientapiclient:
+    build:
+      context: .
+      dockerfile: PatientApiClient/Dockerfile
+    container_name: patient_api_client
+    depends_on:
+      - maternityhospitalapi
