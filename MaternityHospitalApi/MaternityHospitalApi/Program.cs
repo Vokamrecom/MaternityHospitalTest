@@ -5,6 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.WebHost.UseUrls("http://0.0.0.0:5000");
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -29,6 +31,11 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<DataContext>();
+   // dbContext.Database.Migrate();
 }
 
 app.UseHttpsRedirection();

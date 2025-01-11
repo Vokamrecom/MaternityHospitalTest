@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "qagJR68byn8=",
+  "dgSpecHash": "uvzZl5DHAMfD/zOXoRw8ciUAszpnJKRLmYeVsezIC4sOkeHM0CBMa4RQBeIpCWgWQKC9/sjkzVHnMtDA2IKp0w==",
   "success": true,
-  "projectFilePath": "D:\\Проекты\\MaternityHospitalTest\\MaternityHospitalApi\\PatientApiClient\\PatientApiClient.csproj",
+  "projectFilePath": "D:\\MaternityHospitalTest\\MaternityHospitalApi\\PatientApiClient\\PatientApiClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vokamrecom-PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+    "C:\\Users\\K.ermakov\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\K.ermakov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\K.ermakov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\K.ermakov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\K.ermakov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

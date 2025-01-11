@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "U3G/hWxJ44YOzQ54j3E0wT+lb4FmrfxuyFTcgfrPCDI=",
+  "Hash": "s+a44NRz+xdqBCJXXOAT598OcPF8qnoyF/AYYQlyE5k=",
   "Source": "MaternityHospitalApi",
   "BasePath": "_content/MaternityHospitalApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

@@ -9,8 +9,8 @@ namespace PatientApiClient
 
         static async Task Main(string[] args)
         {
-            //string apiUrl = "http://localhost:5000/api/Patients";
-            string apiUrl = "https://localhost:44350/api/Patients";
+            string apiUrl = "http://maternityhospitalapi:5000/api/patients";
+            //string apiUrl = "https://localhost:44350/api/Patients";
 
             for (int i = 1; i <= 100; i++)
             {
