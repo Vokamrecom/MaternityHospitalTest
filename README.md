@@ -31,7 +31,7 @@ This will create and start the containers for SQL Server and the API project.
 
 4. To populate the database with 100 patients, run the patient_api_client container:
    ```bash
-   docker-compose run --rm patient_api_client
+   docker-compose run --rm patientapiclient
    
 # Postman Collection
 A Postman collection (in .json format) is included in the archive for testing the API.
