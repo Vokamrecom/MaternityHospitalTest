@@ -29,7 +29,7 @@ Docker must be installed on your machine to run this project.
 
 This will create and start the containers for SQL Server and the API project.
 
-4. To populate the database with 100 patients, run the patient_api_client container:
+4. To populate the database with 100 patients, run the patientapiclient container:
    ```bash
    docker-compose run --rm patientapiclient
    
